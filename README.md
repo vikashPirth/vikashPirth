@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning Aws, Terraform
+🌱 I'm currently learning Aws, Terraform
 
 
 ## 🌐 Socials:
