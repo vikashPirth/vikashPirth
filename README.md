@@ -1,6 +1,6 @@
 # 💫 About Me:
-🌱 I'm currently learning Aws, Terraform
 
+Explore my work and skills at [www.vikashprithiani.com](https://www.vikashprithiani.com/)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]-[Vikash Prithiani](https://www.linkedin.com/in/vikash-prithiani-0a770431/)
